@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-phpInfo()
+phpInfo();
 
 define( 'WP_USE_THEMES', true );
 
